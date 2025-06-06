@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning JavaScript(ReactJS)
 - 🗒️ Currently know C/C++/Java(JavaSwing) and am Familiar with Python and Bash
 - 📫 How to reach me ipapathemistokleous21@gmail.com
-- ⚡ Fun fact: Former Speedcubing national champion
+- ⚡ Fun fact: Former Speedcubing national champion 
