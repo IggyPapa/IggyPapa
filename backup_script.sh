@@ -1,3 +1,8 @@
+# This is a simple script that creates a backup file
+# for a file that the user enters 
+# This was created as part of an Operating Systems class
+
+
 #!/bin/bash
 
 # Here teh user inputs the directory
