@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Ignatios Papathemistokleous
 - 👀 I’m interested in software development, machine learning, aerospace engineering, and Telecommunications
-- 🌱 I’m currently learning JavaScript(ReactJS)
+- 🌱 I’m currently learning .Net C#
 - 🗒️ Currently know C/C++/Java(JavaSwing) and am Familiar with Python and Bash
 - 📫 How to reach me ipapathemistokleous21@gmail.com
 - ⚡ Fun fact: Former Speedcubing national champion 
