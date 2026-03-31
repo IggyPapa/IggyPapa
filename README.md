@@ -1,6 +1,6 @@
-- 👋 Hi, My name is Ignatios Papathemistokleous
-- 👀 I’m interested in software development, machine learning, aerospace engineering, and Telecommunications
-- 🌱 I’m currently learning .Net C#
-- 🗒️ Currently know C/C++/C#/Java(JavaSwing) and am Familiar with Python and Bash
+- 👋 Hello! my name is Ignatios Papathemistokleous. I am currently in the 3rd year of my bachelors degree in Digital Systems with a Major in Telecommunications.
+- 👀 My main interests are in Quantum Computing, Quantum Communications and Communications in General
+- 🗒️ I know C,C++,C#(.Net) and Java but the main Language I currently use is Python (Qiskit)
+- 🌱 I’m hoping to learn Cirq in the near future
 - 📫 How to reach me ipapathemistokleous21@gmail.com
 - ⚡ Fun fact: Former Speedcubing national champion 
